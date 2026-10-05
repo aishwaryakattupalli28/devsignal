@@ -1,0 +1,6 @@
+{
+  "name": "DevSignal",
+  "description": "Analyze developer GitHub profiles against target engineering roles with fit score gauges, recruiter insights, and remediation action plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
